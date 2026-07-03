@@ -1,5 +1,2 @@
 pyTelegramBotAPI
-# или aiogram
-# aiogram
-# requests
-# и другие, если есть
+aiogram
